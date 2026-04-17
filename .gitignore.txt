@@ -1,0 +1,8 @@
+# 忽略所有二进制可执行文件
+*.exe
+
+# 忽略特定的 MCP 插件庞大运行环境
+.obsidian/plugins/mcp-tools/bin/
+
+# 顺便忽略 Obsidian 的工作区状态（这文件只要你点一下鼠标就会变，如果不忽略，你的 Git 每天会疯狂自动 Commit 这个无意义的变更）
+.obsidian/workspace.json
