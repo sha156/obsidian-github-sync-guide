@@ -1,5 +1,3 @@
-# obsidian-github-sync-guide
-同步obsidian笔记到github仓库
 # Obsidian → GitHub 同步指南
 
 将 Obsidian 笔记库备份到 GitHub 的完整流程，包含常见坑的处理方法。
